@@ -318,6 +318,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/suhail/Sites/ngsnippets"
+	],
 	"file_history":
 	[
 		"/Users/suhail/Sites/my.lon/js/app/external/external.module.js",
