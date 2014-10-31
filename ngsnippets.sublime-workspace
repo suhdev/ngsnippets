@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng-bind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"Input",
+				"Input-get	Input-get"
+			],
+			[
+				"ngbind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"App",
+				"App-abort	App-abort"
+			],
+			[
+				"findBy",
+				"findIndexByField"
+			],
+			[
+				"direc",
+				"directive	Angular.js"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"La",
+				"Lang-get	Lang-get"
+			],
+			[
+				"Redi",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"Auth",
+				"Auth-check	Auth-check"
+			],
+			[
+				"View",
+				"View-make	View-make"
+			],
+			[
+				"pagination",
+				"disabledPagination"
+			],
+			[
+				"color-b",
+				"color-brand-2"
+			],
+			[
+				"Re",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"onMainCate",
+				"onMainCategorySelected"
+			],
+			[
+				"opac",
+				"opacity	opacity()"
+			],
+			[
+				"_g",
+				"_gLoaded"
+			],
+			[
+				"Validator",
+				"Validator-make	Validator-make"
+			],
+			[
+				"onMain",
+				"onMainCategoryUnselected"
+			],
+			[
+				"disal",
+				"disabledPagination"
+			],
+			[
+				"byCate",
+				"byCategory"
+			],
+			[
+				"MainCategory",
+				"MainCategorySelected"
+			],
+			[
+				"Session",
+				"Session-has	Session-has"
+			],
+			[
+				"Lang",
+				"Lang-locale	Lang-locale"
+			],
+			[
+				"ng-bind-ht",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"featu",
+				"featured_image"
+			],
+			[
+				"selectedImage",
+				"selectedImageIndex"
+			],
+			[
+				"featuredIm",
+				"featuredImage"
+			],
+			[
+				"featureIm",
+				"featuredImageId"
+			],
+			[
+				"selectedI",
+				"selectedImageId"
+			],
+			[
+				"featuredImage",
+				"featuredImageId"
+			],
+			[
+				"selected",
+				"selectedImageId"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"dire",
+				"directive	Angular.js"
+			],
+			[
+				"screen-",
+				"screen-vs-min"
+			],
+			[
+				"output",
+				"outputFile"
+			],
+			[
+				"outpu",
+				"outputFile"
+			],
+			[
+				"experienceP",
+				"experiencePageLimitReached"
+			],
+			[
+				"page",
+				"experiencePageLimitReached"
+			],
+			[
+				"di",
+				"directivelong	Angular.js"
+			],
+			[
+				"regi",
+				"registertask	grunt.registerTask"
+			],
+			[
+				"ng-bind-html",
+				"ng-bind-html-unsafe	AngularJS"
+			],
+			[
+				"subscri",
+				"subscribers"
+			],
+			[
+				"module",
+				"angular.module"
+			],
+			[
+				"catego",
+				"categoryName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"runt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"gu",
+				"Grunt"
+			],
+			[
+				"grutn",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grund",
+				"Snippet: grunt.file.isDir"
+			],
+			[
+				"gurnt",
+				"Grunt"
+			],
+			[
+				"migrate",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"generate",
+				"Laravel Generate: Migration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"grut",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"genet",
+				"Laravel Generate: Controller"
+			],
+			[
+				"laravel ge",
+				"Laravel Generate: Seed"
+			],
+			[
+				"seed",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"mig",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"reset",
+				"Laravel Artisan: Migrate: Reset"
+			],
+			[
+				"migr",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"artisa",
+				"Laravel Facade: Artisan"
+			],
+			[
+				"argi",
+				"Laravel Artisan: Migrate: Reset"
+			],
+			[
+				"grnt",
+				"Grunt"
+			],
+			[
+				"migra",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 665.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/suhail/Sites/my.lon/js/app/external/external.module.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/home.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/skeleton.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/loginform.services.js",
+		"/Users/suhail/Sites/my.lon/public/templates/system/loginform.template.html",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/guidebox.directive.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/experiencebox.directive.js",
+		"/Users/suhail/Sites/my.lon/public/templates/system/experiencebox.template.html",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_variables.scss",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_guidebox.scss",
+		"/Users/suhail/Sites/my.lon/public/config.rb",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/header/home.blade.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_mapview.scss",
+		"/Users/suhail/Sites/my.lon/app/views/components/categorysearch.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/scrolltotarget.directive.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/partials/controls.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/loginform.directive.js",
+		"/Users/suhail/Sites/my.lon/js/lang.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_layout.scss",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/ui/_ui.scss",
+		"/Users/suhail/Sites/my.lon/public/templates/system/guidebox.template.html",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/ui/_loginform.scss",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/localize.directive.js",
+		"/Users/suhail/Sites/my.lon/js/services/system/security.service.js",
+		"/Users/suhail/Sites/my.lon/app/routes.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/slidecarousel.directive.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/usercreator.ctrl.js",
+		"/Users/suhail/Sites/my.lon/app/controllers/UserCtrl.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/usermenu.ctrl.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_slidecarousel.scss",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/experiencecreator.ctrl.js",
+		"/Users/suhail/Sites/my.lon/public/templates/system/slidecarousel.template.html",
+		"/Users/suhail/Sites/my.lon/app/models/ExperienceAttachment.php",
+		"/Users/suhail/Sites/my.lon/app/controllers/ExperienceAttachmentCtrl.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/experienceattachments.ctrls.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_anafix.scss",
+		"/Users/suhail/Sites/my.lon/app/controllers/GuideCtrl.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/create.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/edit.blade.php",
+		"/Users/suhail/Sites/my.lon/app/models/Guide.php",
+		"/Users/suhail/Sites/my.lon/app/controllers/ExperienceCtrl.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/view.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/view.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/partials/controls.blade.php",
+		"/Users/suhail/Sites/my.lon/app/config/app.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/experienceapp.ctrl.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/user/me.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/guidecreator.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/openfileselector.directive.js",
+		"/Users/suhail/Sites/my.lon/app/lang/no/messages.php",
+		"/Users/suhail/Sites/my.lon/app/lang/se/messages.php",
+		"/Users/suhail/Sites/my.lon/app/lang/fi/messages.php",
+		"/Users/suhail/Sites/my.lon/app/views/category/view.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/categoryapp.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/homeapp.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/external/services/facebook.service.js",
+		"/Users/suhail/Sites/my.lon/app/controllers/CategoryController.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/users.service.js",
+		"/Users/suhail/Sites/my.lon/temp/app.php",
+		"/Users/suhail/Sites/my.lon/Gruntfile.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/eventdelegator.directive.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/imagecropdialog.directive.js",
+		"/Users/suhail/Sites/my.lon/app/models/User.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/user/view.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/guideapp.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/directives/general/imagecropdialog.directive.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_header.scss",
+		"/Users/suhail/Sites/my.lon/app/lang/en/messages.php",
+		"/Users/suhail/Sites/my.lon/public/scripts/lang.min.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_experiencebox.scss",
+		"/Users/suhail/Sites/my.lon/js/app/ui/directives/tooltip.directive.js",
+		"/Users/suhail/Sites/my.lon/app/lang/dk/messages.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/userdata.service.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/create.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/footer/basic.blade.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/ui/_toast.scss",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/header/partials/profilemenu.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/ui/directives/fixer.directive.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/mapview.directive.js",
+		"/Users/suhail/Sites/my.lon/js/lib/angular.min.js",
+		"/Users/suhail/Sites/my.lon/public/scripts/lib.min.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/experiences.sevice.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/guides.service.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/pdf.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/embed.blade.php",
+		"/Users/suhail/Sites/my.lon/public/templates/system/experienceboxpdf.template.html",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/experienceboxpdf.directive.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/partials/comments.blade.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_comments.scss",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_category-selector.scss",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/header/embed.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/layouts/header/partials/nav.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/userapp.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/userticket.ctrl.js",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_userpage.scss",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/embed.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/user/partials/createheader.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/user/partials/viewheader.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/user/partials/viewdescription.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/guidecomments.service.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/guide/partials/comments.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/experiencecomments.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/controllers/guidecomments.ctrl.js",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/experiencecomments.service.js",
+		"/Users/suhail/Sites/my.lon/app/controllers/ExperienceCommentCtrl.php",
+		"/Users/suhail/Sites/my.lon/app/controllers/GuideCommentCtrl.php",
+		"/Users/suhail/Sites/my.lon/js/app/external/services/geocoding.service.js",
+		"/Users/suhail/Sites/my.lon/js/plugins/basic.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/partials/createmeta.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/share.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/components/experiencemeta.blade.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_categorytagger.scss",
+		"/Users/suhail/Sites/my.lon/public/templates/system/categorytagger.template.html",
+		"/Users/suhail/Sites/my.lon/js/app/system/directives/categorytagger.directive.js",
+		"/Users/suhail/Sites/my.lon/js/app/general/services/http.service.js",
+		"/Users/suhail/Sites/my.lon/app/controllers/CategoryCtrl.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/partials/categorytagger.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/external/services/places.service.js",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/partials/createcarousel.blade.php",
+		"/Users/suhail/Sites/my.lon/js/app/system/system.module.js",
+		"/Users/suhail/Sites/my.lon/app/views/experience/partials/createcarousel.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/experience/partials/createmeta.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/experience/partials/createheader.blade.php",
+		"/Users/suhail/Sites/my.lon/app/views/pages/experience/edit.blade.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_autocompletemenu.scss",
+		"/Users/suhail/Sites/my.lon/app/models/Experience.php",
+		"/Users/suhail/Sites/my.lon/public/sass/partials/_forms.scss",
+		"/Users/suhail/Sites/my.lon/js/app/system/services/localize.service.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/suhail/Sites/my.lon",
+			"/Users/suhail/Sites/my.lon/app/views",
+			"/Users/suhail/Sites/my.lon/app/views/guide",
+			"/Users/suhail/Sites/my.lon/app/views/pages",
+			"/Users/suhail/myreallondon/public/js",
+			"/Users/suhail/myreallondon",
+			"/Users/suhail/myreallondon/app/views",
+			"/Users/suhail/myreallondon/public/js",
+			"/Users/suhail/myreallondon/",
+			"/Users/suhail/myreallondon/public/sass/partials",
+			"/Users/suhail/myreallondon",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"=>",
+			"uglify:lang",
+			"lastname",
+			"experience-attachment",
+			"$q",
+			"$Q",
+			"console.log",
+			"/<%",
+			"delete",
+			"homeCtrl",
+			"experienceCtrl",
+			"percentage",
+			"exp",
+			"$upload",
+			"$http",
+			"create-new",
+			"guide-description",
+			"embed-code",
+			"Ber",
+			"sinulla",
+			"div",
+			"CTRL",
+			"status",
+			"experience",
+			"pdf",
+			"showEmbed",
+			"experience",
+			"edit",
+			"put(",
+			"url",
+			"guideCtrl",
+			"expId",
+			"experienceId",
+			"_SEC",
+			"experienceBoxCtrl",
+			"share",
+			"guideCtrl",
+			"cat",
+			"child",
+			"slideCarouselCtrl",
+			"$S",
+			"20px",
+			"publish_status",
+			"guide",
+			"_SAE",
+			"div",
+			";",
+			"						<",
+			"meta-table",
+			"_PS",
+			"_LS",
+			"hidden-map-canvas",
+			"guideCtrl",
+			"guide",
+			"guidebox",
+			"GeneralModule",
+			"facebook",
+			"remove",
+			" ",
+			"lists",
+			"user_experienceLikes",
+			" = ",
+			"=",
+			"experience",
+			"$S.mode",
+			"mode",
+			"acceptAgreement",
+			"$S.experiences",
+			"UserDataLoaded",
+			"subCategories",
+			"selcategories",
+			"selectMainCategory",
+			"mainCategory",
+			"guideCtrl",
+			"GuideController",
+			"GuideComment",
+			"drafts",
+			"bar",
+			"bar-chart",
+			"categories",
+			"repeat-animation",
+			"...",
+			".my-element",
+			"div",
+			".categories-list",
+			"', ",
+			"animate",
+			"UserGuidesLoaded",
+			"object",
+			"dob",
+			"lastname",
+			"email",
+			"firstname",
+			"signInForm",
+			"div",
+			"signin",
+			"l_password",
+			"l_email",
+			"div",
+			"\\\"",
+			"\\\"\"",
+			"\\\\\\\"",
+			"\\\\em",
+			"\\\\",
+			"\":\"",
+			"\",\"",
+			":",
+			"\",\"",
+			"\":\"",
+			"\",\"",
+			":",
+			"\",\"",
+			"\":\"",
+			"\",\"",
+			"addMarker",
+			"=>",
+			"\",\"",
+			"=>",
+			"div",
+			"nV",
+			",",
+			"div",
+			",2)",
+			"$S.paginate",
+			"title",
+			"places.prototype",
+			"geo.prototype.",
+			"};"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ngsnippets.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 502.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/myreallondon/mrl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
